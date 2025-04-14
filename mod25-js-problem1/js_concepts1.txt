@@ -1,0 +1,59 @@
+1. variable: 
+    - let, const: -------- keyword 
+    - number-------
+    - string       |
+    - boolean      |------ primitive data type(5)
+    - undefined    |
+    - null ---------
+    - Array -------|
+    - object-------|-----non-primitive data type(2)
+    - parse Float, parseInt, Number, NaN, infinity
+
+2. Conditionals: 
+    - Declaration & Syntax: if - else if - else
+    - operators: arithmetic, Operators Shorthand,
+      relational, logical.
+    - Ternary operator
+    - switch-case
+
+3. Array: 
+    - Declaration & Syntax:
+    - index start from 0
+    - get Access, set,
+    - Array methods: length, push(), pop(), unshift(), shift(), splice(), slice(), concat(), includes(), indexof(), forEach(), map(), filter(), find(), sort(), reverse(), join(), flat(), reduce(),.
+    - chain methods
+
+7. String: 
+    - Declaration & Syntax
+    - Access, get, update, delete
+    - String Methods: length, toUpperCase(), toLowerCase(), includes(), indexOf(), lastIndexOf(), slice(), substr(), replace(), replaceAll(), trim(), split(), repeat(), 
+    startsWith(), endWith(), charAt().
+    - chain methods
+
+4. Loop: w
+    - Declaration & Syntax
+    - Category: 
+        - for-of: array
+        - for-in: object
+        - for: general
+        - while: general
+        - do-while: no need
+    - break, continue
+
+5. Object: 
+    - Declaration & Syntax
+    - get, set(add), update, delete, 
+    - dot notation . , bracket notation [' '] / [variable name]
+    - special case
+    - object methods: Object.keys(obj), Object.values(obj),
+        - (Adv) Object.entries(obj), Object.assign(), Object.freeze(obj), Object.seal(obj), hasOwnProperty(), Object.hasOwn(obj, key)
+    - Useful for looping, copying, freezing, checking existence.
+
+6. Function: 
+    - Declaration & Syntax
+    - with parameter, without parameter, argument
+    - return 
+        - has return no parameter
+    - function methods: call(), apply(), bind(), toString(), name, length, 
+    - Used to control context (this) and behavior.
+
